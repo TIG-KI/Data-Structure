@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1548933480 source:c:\users\17635\desktop\sq_stack\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"stack_module.h"
+	"stack_use.h"
+
+1549091078 c:\users\17635\desktop\sq_stack\stack_module.h
+	"DataType.h"
+
+1549090988 source:c:\users\17635\desktop\sq_stack\stack_module.cpp
+	<stdio.h>
+	<stdlib.h>
+	"DataType.h"
+	"stack_module.h"
+
+1549091937 c:\users\17635\desktop\sq_stack\stack_use.h
+
+1549091130 source:c:\users\17635\desktop\sq_stack\stack_use.cpp
+	<stdio.h>
+	<stdlib.h>
+	"stack_module.h"
+	"stack_use.h"
+
+1549091937 c:\users\17635\desktop\sq_stack\datatype.h
+
